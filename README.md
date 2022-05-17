@@ -1,4 +1,4 @@
-<p align= center</p><a href="https://Cheataway.com" target="_blank"><img src="https://i.imgur.com/cpjB0Ae.png" alt="HazardNuker"></a>
+<p align= center</p><a href="https://Cheataway.com" target="_blank"><img src="https://i.imgur.com/pnhr82j.png" alt="HazardNuker"></a>
 
 <img src="https://img.shields.io/github/watchers/Rdimo/Account-Generator-Discord-bot?color=808080&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Account-Generator-Discord-bot?color=808080&label=Stars" alt="shield.png"></a>
