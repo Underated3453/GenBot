@@ -5,7 +5,7 @@ module.exports = {
       username: "Rdimo#6969"
     },
 
-    channels: {
+    channels: {927524254554157086}
       generator: '', //ID of the generator channel
       nitro: '', //ID of the nitro generator channel
       twitch: '' //ID of the Twitch follows channel
@@ -40,7 +40,7 @@ module.exports = {
     },
 
     Token: {
-      Discord: 'Your_discord_bot_token',
+      Discord: 'OTYzNzMwNTQwNDU0ODk1Njc4.GwPCAi.MYYHnhm1iJJvHm9Y-Zifytf51Hkf79bsw-aWJo',
     },
 
     blacklistedUsers: {
